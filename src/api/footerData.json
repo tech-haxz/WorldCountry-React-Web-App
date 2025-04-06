@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Lucknow, India"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7080463482"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@Vinay.com"
+    }
+  ]

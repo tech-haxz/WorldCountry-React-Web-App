@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 37742154,
+        "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+        "id": 2,
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": 25499884,
+        "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    },
+    {
+        "id": 3,
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "interestingFact": "Japan consists of over 6,800 islands."
+    },
+    {
+        "id": 4,
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 212559417,
+        "interestingFact": "Brazil is the largest country in South America."
+    },
+    {
+        "id": 5,
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 83783942,
+        "interestingFact": "Germany is known for its famous Oktoberfest beer festival."
+    },
+    {
+        "id": 6,
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "interestingFact": "India is the second most populous country in the world."
+    },
+    {
+        "id": 7,
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "population": 59308690,
+        "interestingFact": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town."
+    },
+    {
+        "id": 8,
+        "name": "France",
+        "capital": "Paris",
+        "population": 65273511,
+        "interestingFact": "France is the most visited country in the world."
+    },
+    {
+        "id": 9,
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1439323776,
+        "interestingFact": "China is the most populous country in the world."
+    },
+    {
+        "id": 10,
+        "name": "Italy",
+        "capital": "Rome",
+        "population": 60461826,
+        "interestingFact": "Italy is home to the largest number of UNESCO World Heritage Sites."
+    }
+]
